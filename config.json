@@ -99,7 +99,7 @@
     },
     "defaultContacts": [],
     "disabledApps": ["BROWSER"],
-    "apps": ["npwd_qbx_mail", "npwd_qbx_garages"],
+    "apps": ["npwd_qbx_mail", "npwd_qbx_garages", "npwd_bankingapp", "npwd_renewed_weather", "npwd_qbx_services"],
     "voiceMessage": {
       "enabled": true,
       "authorizationHeader": "Authorization",
